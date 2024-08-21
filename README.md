@@ -61,4 +61,4 @@ Zomato Restaurants has a significant global presence, with strongholds in Asia a
 - Improve data formatting to allow for more accurate comparisons between restaurants and countries.
 - Evaluate the costs and benefits of expanding or reducing culinary diversity, considering meal prices and restaurant ratings.
 
-**Check out the project results here**: 
+**Check out the project results here**: https://lorenzo-quaglio-zomato-restaurants.streamlit.app/
